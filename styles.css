@@ -97,8 +97,6 @@ main {
   font-size: 15px;
   text-align: center;
   display: block;
-  padding: 0.5rem;
-  margin: 2.8rem;
 }
 /* styling the stats */
 .card .stats {
